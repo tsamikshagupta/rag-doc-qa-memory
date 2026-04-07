@@ -79,8 +79,4 @@ By default:
 - `MAX_CONTEXT_WORDS` is set to `300` to respect FLAN-T5's strict 512-token limit.
 - `TOP_K_RETRIEVAL` fetches the top 5 most relevant chunks.
 
-## 🤝 Contributing
-Feel free to open an issue or submit a pull request if you want to expand the supported file types, upgrade the default LLM (like pointing to `Llama-3` or `Mistral` via `Ollama`), or improve the re-ranking formula!
 
----
-*Built with ❤️ for privacy-first AI.*
